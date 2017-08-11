@@ -3,6 +3,6 @@
 int main(void)
 {
  printf("hello word!\n");
- retrun 0;
+ return 0;
 
 }
